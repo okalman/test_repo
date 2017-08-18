@@ -1,2 +1,2 @@
 # test_repo
-some text 6
+some text 7 
